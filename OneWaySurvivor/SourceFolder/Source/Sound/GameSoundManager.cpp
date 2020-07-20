@@ -3,8 +3,8 @@
 #include"BGM/Sound_BGM_Manager.h"
 #include"SE/Warning/Sound_Warning_Manager.h"
 #include"SE/Click/Sound_Click_Manager.h"
-#include"SE/SE_Manager/Sound_Explosion_Manager.h"
-#include"SE/Bullet_Hit/Sound_Bullet_Hit_Manager.h"
+#include"SE/SEManager/Sound_Explosion_Manager.h"
+#include"SE/BulletHit/Sound_Bullet_Hit_Manager.h"
 
 c_GameSoundManager::c_GameSoundManager(const int * g_BGMVolume, const int * g_SEVolume)
 {

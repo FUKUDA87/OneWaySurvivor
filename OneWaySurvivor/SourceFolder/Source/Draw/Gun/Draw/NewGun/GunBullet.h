@@ -1,7 +1,6 @@
 #pragma once
 #include"GunBase.h"
 #include"../../../Effect/EffectBase.h"
-#include"../../../Effect/Gun/No1/Shot/Gun_No1_Shot_Effect.h"
 
 class C_GunBullet :public C_GunBase {
 public:

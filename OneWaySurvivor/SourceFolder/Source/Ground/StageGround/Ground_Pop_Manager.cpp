@@ -1,6 +1,6 @@
 #include "Ground_Pop_Manager.h"
-#include"Ground_Type/Ground_Type_1.h"
-#include"Ground_Type/Ground_Type_0.h"
+#include"GroundType/Ground_Type_1.h"
+#include"GroundType/Ground_Type_0.h"
 
 C_Ground_Pop_Base * C_Ground_Pop_Manager::Get_Ground(const int *GroundNo)
 {

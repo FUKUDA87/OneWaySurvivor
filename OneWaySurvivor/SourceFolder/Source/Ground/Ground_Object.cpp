@@ -1,6 +1,6 @@
 #include "Ground_Object.h"
-#include"Ground_Object_Parts/Bill_Object_1.h"
-#include"Ground_Object_Parts/Light_Object_1_R.h"
+#include"GroundObjectParts/Bill_Object_1.h"
+#include"GroundObjectParts/Light_Object_1_R.h"
 
 C_Ground_Object::C_Ground_Object(const int *i):C_Ground(i)
 {

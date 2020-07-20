@@ -5,7 +5,7 @@
 #include"../GameSource/Count/Countdown.h"
 #include"../GameSource/Count/Count.h"
 #include"../Player/PlayerBase.h"
-#include"Stage_Ground/Ground_Pop_New.h"
+#include"StageGround/Ground_Pop_New.h"
 
 class c_GroundManager
 {

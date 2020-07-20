@@ -1,6 +1,6 @@
 #pragma once
 #include"ground.h"
-#include"Ground_Object_Parts/Object_Base.h"
+#include"GroundObjectParts/Object_Base.h"
 
 class C_Ground_Object :public C_Ground {
 public:
